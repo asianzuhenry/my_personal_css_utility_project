@@ -1,0 +1,7 @@
+/* reset the document and set font family to Arial */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
