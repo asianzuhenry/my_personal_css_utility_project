@@ -1066,6 +1066,23 @@
   width: 50%;
 }
 
+/* WIDTH VH */
+.width-100vh {
+  width: 100vh;
+}
+
+.width-50vh {
+  width: 50vh;
+}
+
+.width-20vh {
+  width: 20vh;
+}
+
+.width-10vh {
+  width: 10vh;
+}
+
 /* HEIGHT px */
 .height-4px {
   height: 4px;
@@ -1122,4 +1139,21 @@
 
 .height-50pc {
   height: 50%;
+}
+
+/* HEIGHT VH */
+.height-100vh {
+  height: 100vh;
+}
+
+.height-50vh {
+  height: 50vh;
+}
+
+.height-20vh {
+  height: 20vh;
+}
+
+.height-10vh {
+  height: 10vh;
 }
