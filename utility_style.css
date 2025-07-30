@@ -986,3 +986,24 @@
 .border-solid-left {
   border-left: solid;
 }
+
+/* TEXT CENTER */
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-top {
+    text-align: top;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-bottom {
+    text-align: bottom;
+}
